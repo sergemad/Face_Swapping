@@ -1,4 +1,0 @@
-streamlit
-dlib
-numpy
-opencv-python-headless
